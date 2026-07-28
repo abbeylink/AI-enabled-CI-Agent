@@ -18,7 +18,7 @@ State what success looked like. For example:
 - Draft high-level DMAIC style feasibility assessment for high-impact ideas, to help the human reviewer decide whether to proceed
 
 ## Architecture at a glance
-![Screenshot or cover image](link to image)
+[![CI Classification & Triage Map](CI%20Classification%20%26%20Triage%20Map.png)](CI%20Classification%20%26%20Triage%20Map.png)
 ## Process
 
 ### Research and discovery
