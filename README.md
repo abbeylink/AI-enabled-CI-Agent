@@ -20,7 +20,7 @@ State what success looked like. For example:
 ## Architecture at a glance
 [![CI Classification & Triage Map](CI%20Classification%20%26%20Triage%20Map.png)](CI%20Classification%20%26%20Triage%20Map.png)
 
-## The interesting part: the AX design decisions 
+## The interesting part: the AX design decisions - [Read the AX Design Document](AX%20Design%20Document.md)
 link to AX_Design_Document.md and pull out 2-3 sentences on the autonomy-tier logic. This is what differentiates you from someone who just called an API.
 
 ## Solution
