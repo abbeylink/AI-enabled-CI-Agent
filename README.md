@@ -19,22 +19,9 @@ State what success looked like. For example:
 
 ## Architecture at a glance
 [![CI Classification & Triage Map](CI%20Classification%20%26%20Triage%20Map.png)](CI%20Classification%20%26%20Triage%20Map.png)
-## Process
 
-### Research and discovery
-
-Explain what you learned: interviews, analytics, competitor review,
-technical investigation, or constraints.
-
-### Key decisions
-
-Describe 2–4 important choices, including the reasoning behind each.
-
-1. **Decision:** What you chose  
-   **Why:** Evidence or trade-off behind it
-
-2. **Decision:** What you chose  
-   **Why:** Evidence or trade-off behind it
+## The interesting part: the AX design decisions 
+link to AX_Design_Document.md and pull out 2-3 sentences on the autonomy-tier logic. This is what differentiates you from someone who just called an API.
 
 ## Solution
 
