@@ -27,7 +27,10 @@ The logic is deliberately conservative: the cost of a wrong automatic decision o
 ## What I'd do next
 
 mentioning Excel/SharePoint input, Power Automate no-code version, real process mining data. Shows this is a live capability, not a one-off exercise.
+Classification_Triage agent_sample output.png
 
+## Sample output
+[![Sample output screenshot](Classification_Triage%20agent_sample%20output.png)](Classification_Triage%20agent_sample%20output.png)
 ## Results
 
 Use measurable outcomes where possible:
