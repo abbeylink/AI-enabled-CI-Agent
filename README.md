@@ -21,12 +21,12 @@ State what success looked like. For example:
 [![CI Classification & Triage Map](CI%20Classification%20%26%20Triage%20Map.png)](CI%20Classification%20%26%20Triage%20Map.png)
 
 ## The interesting part: the AX design decisions - [Read the AX Design Document](AX%20Design%20Document.md)
-link to AX_Design_Document.md and pull out 2-3 sentences on the autonomy-tier logic. This is what differentiates you from someone who just called an API.
+Every classified idea gets routed through a risk-based autonomy check, not just filed automatically. Low-impact, low-effort ideas move straight to the backlog with no human involvement. Ideas with large business impact, or medium impact paired with a large delivery effort, is always flagged for a human to sign off before resource gets committed.
+The logic is deliberately conservative: the cost of a wrong automatic decision on a high-impact idea is judged too high to automate away.
 
-## Solution
+## What I'd do next
 
-Explain the final product or implementation. Add screenshots, diagrams,
-or short GIFs where useful.
+mentioning Excel/SharePoint input, Power Automate no-code version, real process mining data. Shows this is a live capability, not a one-off exercise.
 
 ## Results
 
