@@ -67,7 +67,7 @@ An audit log entry is produced for every improvement idea the agent processes, c
 - Action taken
 - Model used
 
-This is designed so that if the agent ran unsupervised and a downstream issue emerged, the full decision — including which guardrail fired and why — can be reconstructed without needing to re-run anything.
+This is designed so that if the agent ran unsupervised and a downstream issue emerged, the full decision, including which guardrail fired and why, can be reconstructed without needing to re-run anything. Click [audit log](audit_log.csv) for the Audit log generated.
 
 ---
 
