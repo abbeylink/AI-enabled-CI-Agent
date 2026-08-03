@@ -24,10 +24,10 @@ The logic is deliberately conservative as the cost of a wrong automatic decision
 ## Sample output
 I ran the [Ideas classification script](classify_ideas.py) to generate the [classification of the ideas by effort and impact](classified_ideas.csv). See screenshot below: 
 
-[![Sample output screenshot](Idea_classification_agent_sample_output.png)](Idea_classification_agent_sample_output.png)
+[![Sample output screenshot](Idea_classification_agent_screenshot.png)](Idea_classification_agent_screenshot.png)
 
 Subsequently, I ran the [Ideas triage script](agentic_triage.py) to [route the classified ideas](routed_ideas.csv) as auto-filed to backlog or flagged for human review, based on defined autonomy tiers. See screenshot below:
-[![Sample output screenshot](Idea_triage%20agent_sample%20output.png)](Idea_triage%20agent_sample%20output.png)
+[![Sample output screenshot](Idea_triage%20agent_screenshot.png)](Idea_triage%20agent_screenshot.png)
 
 ## What I'd do next
 - Update the Agent to take inputs (CI Ideas) from a dynamic source like Excel online or SharePoint, instead of hardcoding the ideas into the script.
