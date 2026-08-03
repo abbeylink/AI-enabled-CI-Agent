@@ -23,16 +23,6 @@ The logic is deliberately conservative as the cost of a wrong automatic decision
 
 ## Sample output
 [![Sample output screenshot](Classification_Triage%20agent_sample%20output.png)](Classification_Triage%20agent_sample%20output.png)
-## Results
-
-Use measurable outcomes where possible:
-
-- Reduced [time/errors] by X%
-- Increased [completion/adoption] by X%
-- Delivered [feature/system] by [date]
-- Learned [important insight]
-
-If you do not have metrics, state observable outcomes and feedback honestly.
 
 ## What I'd do next
 - Update the Agent to take inputs (CI Ideas) from a dynamic source like Excel online or SharePoint, instead of hardcoding the ideas into the script.
