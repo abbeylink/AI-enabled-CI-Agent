@@ -32,10 +32,3 @@ Subsequently, I ran the [Ideas triage script](agentic_triage.py) to triage the c
 ## What I'd do next
 - Update the Agent to take inputs (CI Ideas) from a dynamic source like Excel online or SharePoint, instead of hardcoding the ideas into the script.
 - Build a similar Agent using Microsoft Copilot studio + Power Automate, to demonstrate the enterprise no-code version of the Agent.
-
-## Running the project locally
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
-# Add setup/run instructions here
