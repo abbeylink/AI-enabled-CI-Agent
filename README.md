@@ -25,7 +25,8 @@ The logic is deliberately conservative as the cost of a wrong automatic decision
 I ran the [Ideas classification script](classify_ideas.py) to generate the classification of the ideas by effort and impact. See screenshot below: 
 
 [![Sample output screenshot](Idea_classification_agent_sample_output.png)](Idea_classification_agent_sample_output.png)
-I ran the [Ideas triage script](agentic_triage.py) to triage the classified ideas as auto-filed to backlog or flagged for human review, based on defined autonomy tiers. See screenshot below:
+
+Subsequently, I ran the [Ideas triage script](agentic_triage.py) to triage the classified ideas as auto-filed to backlog or flagged for human review, based on defined autonomy tiers. See screenshot below:
 [![Sample output screenshot](Idea_triage%20agent_sample%20output.png)](Idea_triage%20agent_sample%20output.png)
 
 ## What I'd do next
