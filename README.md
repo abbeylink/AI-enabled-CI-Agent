@@ -22,6 +22,9 @@ Every classified idea gets routed through a risk-based autonomy check, not just 
 The logic is deliberately conservative as the cost of a wrong automatic decision on a high-impact idea is judged too high to automate away.
 
 ## Sample output
+I ran the [Ideas classification script](classify_ideas.py) to generate the classification of the ideas by effort and impact. See screenshot below: 
+
+I ran the [Ideas triage script](agentic_triage.py) to triage the classified ideas as auto-filed to backlog or flagged for human review, based on defined autonomy tiers. See screenshot below:
 [![Sample output screenshot](Classification_Triage%20agent_sample%20output.png)](Classification_Triage%20agent_sample%20output.png)
 
 ## What I'd do next
